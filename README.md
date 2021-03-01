@@ -1,4 +1,4 @@
-# catheter-tube-detection
+# Catheter Tube Detection using Normalization Free Networks in PyTorch
 
 ![Example Image](assets/__results___19_1.png)
 

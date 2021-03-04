@@ -22,7 +22,7 @@ This repository houses code that I used for the RANZCR CLiP Catheter Tube detect
 
 The aim here was the predict if a Catheter tube was placed correctly in a patient's body via chest-xrays. This problem is important as it will potentially save a lot of lives if detection if done early and with substantial precision.
 
-In this task, we had 11 classes to classify and in some cases a same class was 
+In this task, we had 11 classes to classify from, and in some cases a single image corresponded to multiple classes (though this was rare).
 
 ## Code Walkthrough
 
